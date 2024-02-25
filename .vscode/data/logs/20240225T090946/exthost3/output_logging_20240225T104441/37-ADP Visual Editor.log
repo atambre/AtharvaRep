@@ -1,0 +1,36 @@
+AppFolders: starting processing setAppFoldersContext()
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 126.400ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.hana-project-explorer' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 59.307ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/vscode.git' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 81.942ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.vscode-wing-cap-run' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 45.092ms
+AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.hana-database-explorer' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 48.607ms
+AppFolders: Directory 'file:///home/user/.git/refs/tags' changed, updating app folders in context. 
+AppFolders:
+	projectRoots: 0
+	subWebappRoots: 0
+	manifestAppDescRoots: 0
+AppFolders: Function setContext() done in 45.582ms

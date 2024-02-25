@@ -1,0 +1,1 @@
+2024-02-25 10:47:11.320 [error] Error: ENOENT: no such file or directory, stat '/home/user/.git/index.lock'

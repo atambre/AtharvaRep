@@ -1,0 +1,3 @@
+2024-02-25 09:12:04.137 [error] Error: command 'undefined' not found
+    at S.n (https://theia-workspaces-ws-h7mqk.us10.trial.applicationstudio.cloud.sap/oss-b65dd928fe7491474d4855019d21470468154c4e/static/out/vs/workbench/workbench.web.main.js:1413:13141)
+    at S.executeCommand (https://theia-workspaces-ws-h7mqk.us10.trial.applicationstudio.cloud.sap/oss-b65dd928fe7491474d4855019d21470468154c4e/static/out/vs/workbench/workbench.web.main.js:1413:13070)

@@ -1,0 +1,161 @@
+10:44:49 [INFO] - AppFolders: starting processing setAppFoldersContext()
+10:44:53 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:53 [INFO] - AppFolders: Function setContext() done in 3205.170ms
+10:44:53 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.vscode-wing-java-run' changed, updating app folders in context. 
+10:44:53 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.vscode-wing-expose-router-ports' changed, updating app folders in context. 
+10:44:55 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:55 [INFO] - AppFolders: Function setContext() done in 2314.743ms
+10:44:55 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/output_logging_20240225T104441' changed, updating app folders in context. 
+10:44:55 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:55 [INFO] - AppFolders: Function setContext() done in 2523.571ms
+10:44:55 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:55 [INFO] - AppFolders: Function setContext() done in 286.153ms
+10:44:56 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.vscode-wing-ui5-run' changed, updating app folders in context. 
+10:44:56 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:56 [INFO] - AppFolders: Function setContext() done in 51.487ms
+10:44:56 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.hana-project-explorer' changed, updating app folders in context. 
+10:44:56 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:56 [INFO] - AppFolders: Function setContext() done in 57.975ms
+10:44:56 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/vscode.git' changed, updating app folders in context. 
+10:44:56 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:56 [INFO] - AppFolders: Function setContext() done in 80.296ms
+10:44:57 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.vscode-wing-cap-run' changed, updating app folders in context. 
+10:44:57 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:44:57 [INFO] - AppFolders: Function setContext() done in 44.207ms
+10:45:00 [INFO] - AppFolders: Directory 'file:///home/user/.vscode/data/logs/20240225T090946/exthost3/SAPSE.hana-database-explorer' changed, updating app folders in context. 
+10:45:00 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:45:00 [INFO] - AppFolders: Function setContext() done in 47.284ms
+10:46:37 [INFO] - AppFolders: Directory 'file:///home/user/.git/refs/tags' changed, updating app folders in context. 
+10:46:37 [INFO] - AppFolders:
+	projectRoots: 0
+	appRoots: 0
+	webappRoots: 0
+	subWebappRoots: 0
+	localServiceRoots: 0
+	adaptationAppRoots: 0
+	adaptationWebappRoots: 0
+	extensionAppRoots: 0
+	extensionWebappRoots: 0
+	libraryRoots: 0
+	localAnnotationRoots: 0
+	EDMXWithServiceRoots: 0
+	EDMXLocalServiceRoots: 0
+10:46:37 [INFO] - AppFolders: Function setContext() done in 44.682ms
+10:47:10 [ERROR] - AppFolders: Error when handling file system event for 'file:///home/user/.git/index.lock'
